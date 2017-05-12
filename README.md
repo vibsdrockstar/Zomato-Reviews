@@ -7,3 +7,4 @@ The problem is computationally difficult (NP-hard); however, there are efficient
 
 In this project I hve called zomato api and then clustered all the worst restaurants of Delhi NCR on different parameters by Kmeans clustering .The results are shown below graphically.
 ![cluster_analysis](https://cloud.githubusercontent.com/assets/18600300/22627306/bee692a8-ebe6-11e6-9ee0-68a102d56c9a.png)
+Bilbiography Wikipedia and NPTEL Youtube Channel  (Machine Learning Course by IIT Kharagpur.)
